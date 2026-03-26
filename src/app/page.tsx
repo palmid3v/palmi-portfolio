@@ -17,7 +17,7 @@ export default function Home() {
   <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(59,130,246,0.2),transparent_60%)]" />
 
   <h1 className="text-6xl md:text-7xl font-bold tracking-tight bg-gradient-to-r from-white via-gray-300 to-gray-500 bg-clip-text text-transparent">
-    Palmi Dev
+    Carlos Palmieri
   </h1>
 
   <p className="mt-6 text-lg md:text-xl text-gray-400 max-w-xl">
